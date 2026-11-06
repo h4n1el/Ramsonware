@@ -1,0 +1,14 @@
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\bin\Debug\net10.0\SimuladorRamsonware.exe
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\bin\Debug\net10.0\SimuladorRamsonware.deps.json
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\bin\Debug\net10.0\SimuladorRamsonware.runtimeconfig.json
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\bin\Debug\net10.0\SimuladorRamsonware.dll
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\bin\Debug\net10.0\SimuladorRamsonware.pdb
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\obj\Debug\net10.0\SimuladorRamsonware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\obj\Debug\net10.0\SimuladorRamsonware.AssemblyInfoInputs.cache
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\obj\Debug\net10.0\SimuladorRamsonware.AssemblyInfo.cs
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\obj\Debug\net10.0\SimuladorRamsonware.csproj.CoreCompileInputs.cache
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\obj\Debug\net10.0\SimuladorRamsonware.dll
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\obj\Debug\net10.0\refint\SimuladorRamsonware.dll
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\obj\Debug\net10.0\SimuladorRamsonware.pdb
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\obj\Debug\net10.0\SimuladorRamsonware.genruntimeconfig.cache
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\obj\Debug\net10.0\ref\SimuladorRamsonware.dll

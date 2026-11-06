@@ -1,0 +1,14 @@
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\bin\Debug\net10.0-windows\SimuladorRamsonware.exe
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\bin\Debug\net10.0-windows\SimuladorRamsonware.deps.json
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\bin\Debug\net10.0-windows\SimuladorRamsonware.runtimeconfig.json
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\bin\Debug\net10.0-windows\SimuladorRamsonware.dll
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\bin\Debug\net10.0-windows\SimuladorRamsonware.pdb
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\obj\Debug\net10.0-windows\SimuladorRamsonware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\obj\Debug\net10.0-windows\SimuladorRamsonware.AssemblyInfoInputs.cache
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\obj\Debug\net10.0-windows\SimuladorRamsonware.AssemblyInfo.cs
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\obj\Debug\net10.0-windows\SimuladorRamsonware.csproj.CoreCompileInputs.cache
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\obj\Debug\net10.0-windows\SimuladorRamsonware.dll
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\obj\Debug\net10.0-windows\refint\SimuladorRamsonware.dll
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\obj\Debug\net10.0-windows\SimuladorRamsonware.pdb
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\obj\Debug\net10.0-windows\SimuladorRamsonware.genruntimeconfig.cache
+C:\Users\dg_dl\OneDrive\Documentos\Ramsonware\Ramsonware\Ramson2\SimuladorRamsonware\obj\Debug\net10.0-windows\ref\SimuladorRamsonware.dll
